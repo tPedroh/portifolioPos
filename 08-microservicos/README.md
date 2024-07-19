@@ -1,13 +1,5 @@
-# Microsserviços
+# ************ Microsserviços *************
 
-Professores: Vinicius Soares e Luis Fernando Planella Gonzalez
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- Estudo sobre a arquitetura de microserviços.
-- Estudo sobre os conceitos de particionamento de serviços, replicação e distribuição, comunicação assíncrona via filas.
-- Soluções serveless.
-
-> “Hoje dados e informações são  
-> as coisas mais valiosas que tem.”  
-> **Eugenio Facchini Neto**
+- Exploração da arquitetura de microserviços. Análise dos conceitos de particionamento de serviços, replicação e distribuição, comunicação assíncrona por meio de filas e soluções serverless.

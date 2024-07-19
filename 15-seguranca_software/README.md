@@ -1,14 +1,5 @@
-# Segurança de Software
+# ************** Segurança de Software **************
 
-Professores: Moises Brandalise e Avelino Zorzo
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- Estudo sobre os métodos e utilização de criptografia para transmissão e armazenamento.
-- Estudo sobre protocolo de comunicação em navegadores (HTTPS) ou aplicativos de conversa (LibSignal).
-- Estudo sobre segurança no desenvolvimento de software. Estudo sobre os problemas mais frequentes indicados pela OWASP.
-- Estudo sobre métodos de autenticação e autorização.
-
-> “A base vai muito de se questionar  
-> como as coisas funcionam.”  
-> **Mário Souto**
+- Exploração dos métodos e da utilização de criptografia para transmissão e armazenamento de dados. Análise de protocolos de comunicação em navegadores (HTTPS) e aplicativos de mensagem (LibSignal). Estudo sobre segurança no desenvolvimento de software, incluindo os problemas mais comuns identificados pela OWASP. Investigação de métodos de autenticação e autorização.

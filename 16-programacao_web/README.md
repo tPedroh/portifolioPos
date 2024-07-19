@@ -1,14 +1,11 @@
-# Programação para Web
+# ************** Programação para Web **************
 
-Professores: Andrea Konzen e Luis Fernando Planella Gonzalez
+## Assuntos abordados na aula
 
-## Ementa da disciplina
+- Análise do desenvolvimento de aplicações utilizando HTML, CSS e JavaScript. Exploração do Document Object Model (DOM). Utilização de formulários em aplicações web. Desenvolvimento de aplicações responsivas e acessíveis.
 
-- Estudo do desenvolvimento de aplicações com HTML, CSS e JavaScript.
-- Estudo sobre Document Object Model (DOM). 
-- Utilização de forms em aplicações WEB.
-- Desenvolvimento de aplicações responsivas e acessíveis.
 
-> “A beleza de um software, a beleza de um site, a beleza de uma  
-> interface importa e desempenha um papel muito importante.”  
-> **Luana Müller**
+
+
+
+

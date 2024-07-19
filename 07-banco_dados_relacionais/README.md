@@ -1,14 +1,5 @@
-# Banco de Dados Relacional
+# *********** Banco de Dados Relacional ***********
 
-Professores: Claudio Bonel e Azriel Majdenbaum
+## Assuntos abordados
 
-## Ementa da disciplina
-
-- Visão geral da abordagem de banco de dados.
-- Estudo sobre modelagem conceitual (E/R).
-- Estudo sob mapeamento objeto relacional (ORM).
-- Desenvolvimento com SQL padrão (DDL e DML).
-
-> “Relações são conjuntos onde os,  
-> elementos são pares ordenados.”  
-> **Daniela Rodrigues**
+- Uma visão abrangente da abordagem de banco de dados. Estudo sobre modelagem conceitual (E/R). Análise do mapeamento objeto-relacional (ORM). Desenvolvimento com SQL padrão (DDL e DML).

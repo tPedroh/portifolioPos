@@ -1,19 +1,5 @@
-# Mentalidade Ágil - LEAN
+# ************** Mentalidade Ágil - LEAN **************
 
-Professores: Rodrigo Giaffredo e Alessandra Costa Smolenaars Dutra
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- Definição de Lean. Pensamento Lean-agile e princípios ágeis.
-- O pensamento ágil aplicado à projetos.
-- Pensamento sistêmico.
-- Comportamento ágil.
-- Práticas do Lean-agile.
-- Mínimo produto viável (MPV).
-- A melhoria contínua. O just-in-time, kaizen, o Kanban e Andon.
-- Gestão visual e Last planner.
-- Produto e resultado enxuto.
-
-> “Quando eu estou implementando uma mentalidade ágil, eu estou provocando,   
-> estimulando uma transformação organizacional.”  
-> **Lilian Treff**
+- Exploração dos conceitos de Lean, incluindo o pensamento Lean-agile e princípios ágeis. Aplicação do pensamento ágil em projetos e abordagem sistêmica. Análise do comportamento ágil e práticas do Lean-agile. Desenvolvimento do Mínimo Produto Viável (MPV) e a busca pela melhoria contínua. Conceitos de just-in-time, kaizen, Kanban e Andon, além de gestão visual e Last Planner. Foco em produtos e resultados enxutos.

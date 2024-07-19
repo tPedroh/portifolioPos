@@ -1,6 +1,6 @@
 # ************** Fundamentos de Computação e Algoritmos **************
 
-## Resumo da matéria
+## Assuntos abordados na aula
 1-Compreensão de Algoritmos e Estruturas de Dados para Solução de Problemas
 
 2-Análise de Algoritmos em Termos de Aplicabilidade e Complexidade Computacional

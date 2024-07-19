@@ -1,12 +1,5 @@
-# Arquitetura Client-Side
+# ************* Arquitetura Client-Side *************
 
-Professores: Andre Luiz Mendes Pereira e Júlio Henrique Araújo Pereira Machado
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- Estudo de Arquitetura cliente-servidor para aplicações web SPAs (SinglePage Applications).
-- Estudo sobre frameworks cliente-side: React, Next.js, Redux, React
-Router, React Hook Form, Jest, Styled Components.
-
-> “Nenhum software é 100% seguro.”  
-> **Daniel Callegari**
+- Análise da Arquitetura cliente-servidor para aplicações web SPAs (Single Page Applications). Exploração de frameworks cliente-side, incluindo React, Next.js, Redux, React Router, React Hook Form, Jest e Styled Components.

@@ -1,14 +1,5 @@
-# Inovação e Transformação Digital
+# *********** Inovação e Transformação Digital ***********
 
-Professores: Jorge Luis Nicolas Audy e Gabriela Cardozo Ferreira
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- O que é inovação e o imperativo da transformação digital.
-- Relação entre inovação, ciência e tecnologia e cooperação universidade, empresa e governo.
-- Ecossistemas de inovação, componentes e mecanismos dos ambientes de inovação.
-- Parques tecnológicos, living labs, smart cities e o futuro da inovação.
-- Transformação digital: da tecnologia às pessoas.
-
-> “A inovação distingue entre um líder e um seguidor.”  
-> **Steve Jobs**
+- Exploração do conceito de inovação e a importância da transformação digital. Análise da relação entre inovação, ciência e tecnologia, e a colaboração entre universidades, empresas e governo. Estudo dos ecossistemas de inovação, incluindo seus componentes e mecanismos. Investigação de parques tecnológicos, living labs, smart cities e o futuro da inovação. Transformação digital: do impacto tecnológico às mudanças nas pessoas.

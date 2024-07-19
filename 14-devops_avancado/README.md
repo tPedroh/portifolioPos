@@ -1,14 +1,5 @@
-# DevOps Avançado
+# ************* DevOps Avançado *************
 
-Professores: Cassio Trindade e Marcelo Veiga Neves
+## Assuntos abordados na aula
 
-## Ementa da disciplina
-
-- Estudo sobre entrega contínua (CD), uso de contêineres, orquestração e monitoramento.
-- Experimentação de ferramentas: GitHub Actions, Docker Compose e Kubernets e ferramentas de monitoração.
-
-> “Nós não desenvolvemos softwares  
-> para nós mesmos [...] sempre  
-> desenvolveremos voltado para a  
-> necessidade do cliente.”  
-> **Cassio Trindade**
+- Exploração da entrega contínua (CD), com foco em uso de contêineres, orquestração e monitoramento. Experimentação com ferramentas como GitHub Actions, Docker Compose e Kubernetes, além de ferramentas de monitoramento.

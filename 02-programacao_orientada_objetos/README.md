@@ -1,15 +1,10 @@
-# Programação Orientada a Objetos
+# **************  Programação Orientada a Objetos ************** 
 
-Professores: Alessandro Valério e Edson Ifarraguirre Moreno
+## Assunto abordado na sala
 
-## Ementa da disciplina
+1- Estudo sobre conceitos de Classes (atributos, métodos, propriedades, visibilidade, instancia ou classe). 
+2- Estudo de conceitos de Herança, Polimorfismo, Interfaces, Genéricos e Arrow functions. 
+3- Estudo sobre funções de filtragem, mapeamento e redução. 
+4- Estudo sobre construtores de tipos.
 
-- Estudo sobre conceitos de Classes (atributos, métodos, propriedades, visibilidade, instancia ou classe). 
-- Estudo de conceitos de Herança, Polimorfismo, Interfaces, Genéricos e Arrow functions. 
-- Estudo sobre funções de filtragem, mapeamento e redução. 
-- Estudo sobre construtores de tipos.
-
-> “Não adianta você ser um bom programador,  
-> mas você não saber o que o mercado precisa.”  
-> **Juliana Remor**
 
